@@ -1,0 +1,9 @@
+# Don't track content of these folders
+__pycache__/
+raw_data/
+venv/
+
+
+# Don't track these files
+*.xlsx
+*.csv
