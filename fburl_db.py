@@ -1,4 +1,4 @@
-import pandas as pd 
+import pandas as pd
 
 
 
@@ -12,3 +12,4 @@ fb_poss = 'https://www.basketball-reference.com/leagues/NBA_{}_per_poss.html'
 #advanced analytics
 fb_adv = 'https://www.basketball-reference.com/leagues/NBA_{}_advanced.html'
 
+team_data = 'https://www.basketball-reference.com/leagues/NBA_2020.html#all_team-stats-per_game'
